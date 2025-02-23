@@ -17,3 +17,5 @@ This project analyzes OLA ride data, including booking trends, cancellations, ri
 Note: SQL queries and solutions are in the word file 
 
 
+![image](https://github.com/user-attachments/assets/1d4875d7-a9c3-4a93-9a84-f38d6110571f)
+
